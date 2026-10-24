@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Portfolio.AI.Api/Portfolio.AI.Api.csproj" />
+  <Project Path="Portfolio.AI.Api.Tests/Portfolio.AI.Api.Tests.csproj" />
+</Solution>

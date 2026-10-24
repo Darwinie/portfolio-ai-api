@@ -1,0 +1,46 @@
+# Build context exclusions for the Portfolio.AI.Api image.
+
+# Version control and IDE metadata
+.git
+.gitignore
+.gitattributes
+.vs
+.idea
+.vscode
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+launchSettings.json
+
+# Agent/tooling metadata
+.agents
+skills-lock.json
+
+# Build outputs and test artifacts
+**/bin
+**/obj
+**/out
+**/publish
+**/TestResults
+**/test-results
+
+# Tests are not needed to build or run the image
+Portfolio.AI.Api.Tests
+
+# Local configuration and secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/.env
+**/.env.*
+!**/.env.example
+secrets.json
+*.pfx
+*.p12
+
+# Private working profile: never published, never loaded by the public API
+Portfolio.AI.Api/Data/personal_profile_darwin_lubugan.md
+
+# Docker metadata itself
+Dockerfile
+.dockerignore

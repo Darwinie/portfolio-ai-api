@@ -1,0 +1,262 @@
+{
+  "profile": {
+    "name": "Darwin M. Lubugan",
+    "role": "Software Engineer | .NET Full Stack Developer",
+    "location": "Batangas, Philippines",
+    "timezone": "GMT+8",
+    "email": "lubugandarwin@gmail.com",
+    "phone": "+639280810360",
+    "availability": "Open to software engineering and automation roles — Remote-friendly",
+    "headline": "I turn repetitive work into reliable systems.",
+    "intro": "I build enterprise applications, internal tools, and automations — C#, ASP.NET Core, .NET, Vue, PHP, PowerShell, Python, SQL. Currently a part-time software developer at NOUS AV IT Solutions.",
+    "resumeUrl": "/Lubugan_Darwin_Resume.pdf"
+  },
+  "summary": "Darwin M. Lubugan is a Software Engineer | .NET Full Stack Developer based in Batangas, Philippines. He has approximately three years of professional software engineering experience since October 2023, building enterprise applications, automating business processes, and integrating REST APIs using C#, ASP.NET Core, SQL Server, PowerShell, Python, and Microsoft Azure. He is currently a Software Developer (Part-time) at NOUS AV IT Solutions (March 2026–Present). Previously, he was a Junior Network and System Administrator at Advani Group of Companies (November 2025–September 25, 2026) and a Software Engineer at Elyon Global Technologies Asia Inc. (October 2023–October 2025).",
+  "careerSummary": {
+    "softwareEngineeringExperience": "Approximately 3 years of professional software engineering experience from October 2023 to present (as of October 2026).",
+    "dotNetExperience": "Approximately 3 years of professional software engineering experience, with C#/.NET used throughout. Darwin's resume titles him 'Software Engineer | .NET Full Stack Developer.' The resume does not state a separate exact .NET-only duration.",
+    "currentStatus": "Software Developer (Part-time) at NOUS AV IT Solutions since March 2026.",
+    "advaniEndDate": "September 25, 2026",
+    "employmentHistory": "Elyon Global Technologies Asia Inc. (Software Engineer, October 2023–October 2025); Advani Group of Companies (Junior Network and System Administrator, November 2025–September 25, 2026); NOUS AV IT Solutions (Software Developer, Part-time, March 2026–Present)."
+  },
+  "resume": {
+    "title": "Software Engineer | .NET Full Stack Developer",
+    "downloadUrl": "/Lubugan_Darwin_Resume.pdf",
+    "professionalSummary": "Software Engineer specializing in C#, ASP.NET Core, and full-stack web development. Experienced in developing enterprise applications, automating business processes, and integrating REST APIs using SQL Server, PowerShell, Python, and Microsoft Azure. Experienced in software development, automation, and network & system administration, supporting enterprise infrastructure and business-critical applications.",
+    "capstoneProject": {
+      "title": "Municipal Health Office Information and Record Management System",
+      "description": "Digitized and automated manual record-keeping processes, eliminating paper-based logs and reducing data retrieval time."
+    }
+  },
+  "quickAnswers": [
+    {
+      "question": "How long has Darwin worked as a .NET developer?",
+      "answer": "Darwin has approximately three years of professional software engineering experience since October 2023, with C#/.NET used throughout. His resume titles him 'Software Engineer | .NET Full Stack Developer.' The resume does not state a separate exact number of years dedicated only to .NET."
+    },
+    {
+      "question": "Is Darwin currently employed?",
+      "answer": "Yes. Darwin is a Software Developer (Part-time) at NOUS AV IT Solutions, where he has worked since March 2026. His previous role at Advani Group of Companies ended on September 25, 2026."
+    },
+    {
+      "question": "What is Darwin's current role and company?",
+      "answer": "Darwin is a Software Developer (Part-time) at NOUS AV IT Solutions. He has held that role since March 2026."
+    },
+    {
+      "question": "When did Darwin leave Advani Group of Companies?",
+      "answer": "Darwin's employment at Advani Group of Companies ended on September 25, 2026."
+    },
+    {
+      "question": "What is Darwin's tech stack?",
+      "answer": "Darwin's core stack includes C#, .NET, ASP.NET Core, .NET MVC, Entity Framework Core, Vue.js, JavaScript, TypeScript, PHP, Bootstrap, SQL Server, MySQL, MongoDB, PostgreSQL, PowerShell, Python, Microsoft Azure, Azure Functions, Azure DevOps, CI/CD, Docker, Git, and REST APIs. He also has experience with Dynamics 365 Business Central, Azure AI Document Intelligence/OCR, and Tesseract OCR."
+    },
+    {
+      "question": "Summarize Darwin's resume.",
+      "answer": "Darwin M. Lubugan is a Software Engineer | .NET Full Stack Developer based in Batangas, Philippines, with approximately three years of professional software engineering experience since October 2023. He is currently a Software Developer (Part-time) at NOUS AV IT Solutions, building full-stack web applications, a travel agency booking system, and a timekeeping and payroll system. Previously, he was a Software Engineer at Elyon Global Technologies Asia Inc. (October 2023–October 2025) and a Junior Network and System Administrator at Advani Group of Companies (November 2025–September 25, 2026). His work includes C#/.NET enterprise applications, REST APIs, SQL Server, Azure, PowerShell/Python automation, OCR, and PHP/MySQL systems. He holds a BSIT, Cum Laude, from STI College Balayan."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Developer (Part-time)",
+      "company": "NOUS AV IT Solutions",
+      "period": "Mar 2026 — Present",
+      "summary": "Build full-stack web applications and business systems for clients, from requirements gathering through delivery.",
+      "highlights": [
+        "Developed a travel agency website and booking management system with purchase order functionality.",
+        "Built a timekeeping and payroll system to automate attendance and payroll processing.",
+        "Developed full-stack web applications using PHP, MySQL, Apache, JavaScript, HTML, and CSS.",
+        "Gathered client requirements and translated business needs into software solutions."
+      ]
+    },
+    {
+      "role": "Junior Network and System Administrator",
+      "company": "Advani Group of Companies (Nyne Beauty Inc.)",
+      "period": "Nov 2025 — Sept 25, 2026",
+      "summary": "Built internal tools and automations while supporting users, infrastructure, and business-critical applications. Partnered with teams to identify automation opportunities and reduce repetitive work.",
+      "highlights": [
+        "Provided administration and application support for Microsoft Dynamics 365 Business Central, troubleshooting ERP issues and improving system reliability.",
+        "Developed PowerShell and Python scripts to automate Shopify product data alignment, deduplication, and barcode generation for POS upload, reducing a multi-week manual process to under one hour.",
+        "Developed a PHP and MySQL timekeeping system to fully replace Sprout, eliminating manual timesheets, removing third-party licensing fees, and improving payroll accuracy.",
+        "Collaborated with teams to identify automation opportunities, reducing repetitive tasks by approximately 70%.",
+        "Troubleshot Windows / macOS, network, and system issues; provided hardware and software support, installation, and end-user assistance.",
+        "Administered Active Directory user access, maintained servers and Linux environments, and supported Hyper-V and Proxmox virtualization.",
+        "Performed routine backups, maintained IT asset records, and supported equipment inventory tracking.",
+        "Built a C#/.NET ticketing system for internal requests and tracked issues in Azure DevOps.",
+        "Built Python automation for pfSense backups and used Whisper AI and Python to convert training transcripts into structured documentation."
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Elyon Global Technologies Asia Inc.",
+      "period": "Oct 2023 — Oct 2025",
+      "summary": "Built automation features and responsive web applications for internal and client projects.",
+      "highlights": [
+        "Developed a Money Exchange System that streamlined critical processes and improved operational efficiency for Czarina Forex Exchange.",
+        "Integrated OCR for faster customer identification, reducing queue times and eliminating manual data entry.",
+        "Delivered a scalable solution to handle high transaction volumes with real-time accuracy.",
+        "Built responsive web applications with Vue.js and reusable frontend components, collaborating with cross-functional teams to deliver internal business solutions."
+      ]
+    }
+  ],
+  "skills": {
+    "Build": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      ".NET MVC",
+      "Entity Framework Core",
+      "Vue.js",
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "Bootstrap"
+    ],
+    "Automate": [
+      "PowerShell",
+      "Python",
+      "Azure AI Document Intelligence",
+      "Tesseract OCR (C#)",
+      "Shopify API"
+    ],
+    "Data": [
+      "SQL Server",
+      "T-SQL",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "Cloud & DevOps": [
+      "Microsoft Azure",
+      "Azure Functions",
+      "Azure DevOps",
+      "CI/CD Pipelines",
+      "Docker",
+      "Apache HTTP Server"
+    ],
+    "Support": [
+      "Windows / macOS",
+      "Active Directory",
+      "Hardware / software",
+      "End-user assistance",
+      "Network & system troubleshooting"
+    ],
+    "Systems": [
+      "Hyper-V",
+      "Proxmox",
+      "Linux",
+      "pfSense",
+      "DNS / DHCP / VPN"
+    ],
+    "Operate": [
+      "Dynamics 365 Business Central",
+      "SAP Business One",
+      "Git (GitHub, Azure Repos)",
+      "Agile",
+      "REST API Development",
+      "Unit Testing"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Shopify catalog automation",
+      "outcome": "A multi-week catalog cleanup, reduced to under an hour.",
+      "description": "PowerShell and Python scripts that align product data, remove duplicates, and generate barcodes through the Shopify API.",
+      "role": "Automation engineer",
+      "company": "Advani Group of Companies",
+      "stack": [
+        "PowerShell",
+        "Python",
+        "Shopify API"
+      ]
+    },
+    {
+      "title": "Timekeeping, rebuilt in-house",
+      "outcome": "Replaced a licensed timesheet system with a custom PHP/MySQL app.",
+      "description": "Internal timekeeping system with a PHP/MySQL backend and a Vue.js front end.",
+      "role": "Full-stack developer",
+      "company": "Advani Group of Companies",
+      "stack": [
+        "PHP",
+        "MySQL",
+        "Vue.js"
+      ]
+    },
+    {
+      "title": "OCR at the counter",
+      "outcome": "Customer identification approximately 70% faster, with no manual typing.",
+      "description": "Azure OCR integration with a Vue.js and C# workflow that reads customer information and prefills the record.",
+      "role": "Software engineer",
+      "company": "Elyon Global Technologies Asia Inc.",
+      "stack": [
+        "Azure OCR",
+        "Vue.js",
+        "C#"
+      ]
+    },
+    {
+      "title": "Money Exchange System",
+      "outcome": "Streamlined critical money exchange processes for Czarina Forex Exchange.",
+      "description": "Developed automated features for a Money Exchange System, improving operational efficiency and supporting high transaction volumes with real-time accuracy.",
+      "role": "Software Engineer",
+      "company": "Elyon Global Technologies Asia Inc.",
+      "stack": []
+    },
+    {
+      "title": "Travel agency website and booking management system",
+      "outcome": "Delivered a client booking workflow with purchase order functionality.",
+      "description": "Developed a travel agency website and booking management system with purchase order functionality.",
+      "role": "Software Developer (Part-time)",
+      "company": "NOUS AV IT Solutions",
+      "stack": [
+        "PHP",
+        "MySQL",
+        "Apache",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "title": "Timekeeping and Payroll System",
+      "outcome": "Automated attendance and payroll processing.",
+      "description": "Built a timekeeping and payroll system to automate attendance and payroll processing.",
+      "role": "Software Developer (Part-time)",
+      "company": "NOUS AV IT Solutions",
+      "stack": []
+    },
+    {
+      "title": "Shopify image resizer with API tester",
+      "description": "Tool for resizing Shopify product images and validating store credentials.",
+      "stack": [
+        "Python",
+        "Shopify API",
+        "Pillow"
+      ]
+    },
+    {
+      "title": "Municipal Health Office information and record management system",
+      "description": "Capstone project that digitized paper-based health records, eliminated paper-based logs, and reduced data retrieval time.",
+      "stack": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "BSIT, Cum Laude",
+    "school": "STI College Balayan",
+    "period": "July 2019 — July 2023"
+  },
+  "certifications": [
+    "SAP Business One (Basic — Financials and Logistics)",
+    "SAP Business One (Advanced — Implementation and Support)",
+    "Tech Talks: AI and Agents",
+    "Lean Six Sigma Yellow Belt",
+    "Lean Six Sigma White Belt"
+  ],
+  "aiExperience": [
+    "Used Whisper AI and Python to convert training transcripts into structured documentation.",
+    "Integrated Azure AI Document Intelligence and OCR for customer identification and data entry.",
+    "Built and integrated AI-powered features like the Ticket Triage demo using ASP.NET Core, Vue 3, and Google Gemini API."
+  ]
+}

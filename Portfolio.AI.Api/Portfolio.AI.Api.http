@@ -1,0 +1,17 @@
+@Portfolio.AI.Api_HostAddress = http://localhost:5176
+
+### Analyze a ticket (full request)
+POST {{Portfolio.AI.Api_HostAddress}}/api/TicketTriage/analyze
+Content-Type: application/json
+
+{
+  "ticketText": "The application crashes on startup and nobody on the team can sign in.",
+  "context": "Production, premium customer",
+  "requestedPriority": "High"
+}
+
+### Quick triage (ticket text only)
+POST {{Portfolio.AI.Api_HostAddress}}/api/TicketTriage/quick
+Content-Type: application/json
+
+"Forgot my password and the reset email never arrives."
